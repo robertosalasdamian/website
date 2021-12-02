@@ -14,13 +14,13 @@ organizations:
   url: https://www.mccormick.northwestern.edu/computer-science/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, cognition science, and education.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cognition Science
+- Education
 
 # Education to show in About widget
 education:
@@ -73,8 +73,12 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Roberto Salas is a first-year Ph.D. student in Computer Science at Northwestern University. His research interests lie in the fields of Artificial Intelligence, Cognition Science, and Education. He is member of the Qualitative Reasoning Group; he is currently researching on how to build an Analogy Coaching System under the guidance of Kenneth Forbus. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Roberto has ten years of work experience leading transformation projects in companies in the energy and mining sectors. These transformation projects involve the deployment of management systems to change a company's culture, the deployment of new technologies (automation, artificial intelligence), and the strategy to train employees to learn these new technologies. 
+
+By leading these projects across nine countries, Roberto observed the need to develop innovative learning environments that help people to learn faster new technologies. He is interested in researching the area of artificial intelligence and machine learning to develop teaching and learning solutions such as intelligent tutoring systems, customized learning, and teacher support systems.
+
+Finally, Roberto has two main hobbies. He enjoys cycling; his most challenging route was to cross the Andes at an altitude of 4800 meters. He also likes taking pictures of landscapes, especially during the sunrise and sunset.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
